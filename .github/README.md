@@ -33,7 +33,7 @@ You can view the full checklist in [`CHECKLIST.md`](https://github.com/Lissy93/p
 
 ## The Website
 
-The easiest method for consuming the checklist is via our website, at: **[digital-defense.io](https://digital-defense.io/)**
+The easiest method for consuming the checklist is via our website, at: **[cyberio.pro](https://cyberio.pro/)**
 
 Here you can browse lists, filter by your threat model and tick items off once complete (plus, there's pretty charts to make you feel good about your progress ☺️).
 
