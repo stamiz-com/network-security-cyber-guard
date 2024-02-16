@@ -4,9 +4,7 @@
 <b><i>List of recommendations to ensure your internet security</i></b>
 <br />
 <b>🌐 <a href="https://cyberio.pro/">cyberio.pro</a></b><br />
-<br />
-<a href="https://personal-security-checklist.as93.net"><img src="https://i.i" width="64" /><br /></a>
-<br />
+
 <kbd><br />👉 <a href="https://t.me/cyberseeya"><b>Read the Checklist</b></a> 👈<br /><br /></kbd>
 <br />
 </p>
