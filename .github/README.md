@@ -5,7 +5,7 @@
 <br />
 <b>🌐 <a href="https://cyberio.pro/">cyberio.pro</a></b><br />
 <br />
-<a href="https://personal-security-checklist.as93.net"><img src="https://i.ibb.co/Rb6P6h6/shield.png" width="64" /><br /></a>
+<a href="https://personal-security-checklist.as93.net"><img src="https://i.i" width="64" /><br /></a>
 <br />
 <kbd><br />👉 <a href="https://t.me/cyberseeya"><b>Read the Checklist</b></a> 👈<br /><br /></kbd>
 <br />
@@ -47,12 +47,6 @@ Base: digital-defense.io/api
 /api/checklists/[name]/[point-index]
 /api/search/[searchterm]
 
-
-### Developing
-
-### Deploying
-
----
 
 ## Contributing
 All checklist data is stored in [`personal-security-checklist.yml`](https://github.com/Lissy93/personal-security-checklist/blob/HEAD/personal-security-checklist.yml). This is pulled in the website at build-time, and referenced by the API, and is also dynamically inserted into the markdown [Checklist page](https://github.com/Lissy93/personal-security-checklist/blob/HEAD/CHECKLIST.md).
