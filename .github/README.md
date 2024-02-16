@@ -1,4 +1,4 @@
-<h1 align="center">Personal Security Checklist</h1>
+<h1 align="center">Network security cyber guard</h1>
 
 <p align="center">
 <b><i>The ultimate list of tips to secure your digital life</i></b>
