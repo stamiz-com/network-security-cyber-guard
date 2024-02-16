@@ -15,10 +15,6 @@ The easiest method for consuming the checklist is via our website, at: **[cyberi
 
 Here you can browse lists, filter by your threat model and tick items off once complete (plus, there's pretty charts to make you feel good about your progress ☺️).
 
-<p align="center">
-<img width="600" src="https://i.ibb.co/jzKn05H/digital-defense.png" />
-</p>
-
 ### About
 The source for the website is in [`web/`](https://t.me/cyberseeya).<br />
 The site is built with Qwik, using TypeScript and some components from DaisyUI.
