@@ -3,7 +3,7 @@
 <p align="center">
 <b><i>The ultimate list of tips to secure your digital life</i></b>
 <br />
-<b>🌐 <a href="https://digital-defense.io/">digital-defense.io</a></b><br />
+<b>🌐 <a href="https://cyberio.pro/">cyberio.pro</a></b><br />
 <br />
 <a href="https://personal-security-checklist.as93.net"><img src="https://i.ibb.co/Rb6P6h6/shield.png" width="64" /><br /></a>
 <br />
