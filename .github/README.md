@@ -1,7 +1,7 @@
 <h1 align="center">Network security cyber guard</h1>
 
 <p align="center">
-<b><i>The ultimate list of tips to secure your digital life</i></b>
+<b><i>List of recommendations to ensure your internet security</i></b>
 <br />
 <b>🌐 <a href="https://cyberio.pro/">cyberio.pro</a></b><br />
 <br />
