@@ -41,18 +41,6 @@ Base: digital-defense.io/api
 /api/checklists/[name]/[point-index]
 /api/search/[searchterm]
 
-
-## Contributing
-All checklist data is stored in [`personal-security-checklist.yml`](https://github.com/Lissy93/personal-security-checklist/blob/HEAD/personal-security-checklist.yml). This is pulled in the website at build-time, and referenced by the API, and is also dynamically inserted into the markdown [Checklist page](https://github.com/Lissy93/personal-security-checklist/blob/HEAD/CHECKLIST.md).
-
-So if you only wish to make changes to the data, this is the only file you need to edit.
-
-Important: When submitting your pull request, provide references backing up any information that you're adding/amending/removing.
-
-For modifying the website or API source, see the developing sections above for instructions on running locally.
-
-Prior to submitting an issue or PR, please ensure you've followed the [community guidelines](https://github.com/Lissy93/personal-security-checklist/blob/master/.github/CONTRIBUTING.md) and followed the [Code of Conduct](https://github.com/Lissy93/personal-security-checklist/blob/HEAD/.github/CODE_OF_CONDUCT.md).
-
 ---
 
 ## Credits
