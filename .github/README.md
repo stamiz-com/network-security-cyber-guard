@@ -31,18 +31,6 @@ Alternatively, fork the repo and import into your providers dashboard. Or use th
 
 We also make all the data available via a free API, which you can use however you wish.
 
-### Usage
-All endpoints are documented in our OpenAPI spec, you can view these and try them out via our [Swagger docs]().
-
-Base: digital-defense.io/api
-
-/api/checklists
-/api/checklists/[name-or-index]
-/api/checklists/[name]/[point-index]
-/api/search/[searchterm]
-
----
-
 ## Credits
 
 Thank you to all who have contributed to, or sponsored this project!
